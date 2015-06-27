@@ -47,13 +47,13 @@ h1 {
 }
 
 #kitchen {
-  background-image: url(kitchen.jpg);
+  background-image: url(../images/kitchen.jpg);
 }
 
 #meeting-room {
-  background-image: url(meeting-room.jpg);
+  background-image: url(../images/meeting-room.jpg);
 }
 
 #lounge {
-  background-image: url(lounge.jpg);
+  background-image: url(../images/lounge.jpg);
 }
