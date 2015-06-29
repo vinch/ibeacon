@@ -8,3 +8,7 @@ ref.on("child_added", function(snapshot) {
     $('#' + room).show()
   }
 });
+
+ref.on("child_removed", function(snapshot) {
+  window.location.reload();
+});
